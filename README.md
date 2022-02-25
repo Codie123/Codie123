@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codie123
 - 👀 I’m interested in Front-end-development
-- 🌱 I’m currently learning Html/css
+- 🌱 I’m currently learning js,
 - 💞️ I’m looking to collaborate with Front-end-development projects
 - 📫 How to reach me elliott6518@gmail.com
 
